@@ -18,9 +18,9 @@ PyTorch
 
 ## output
 
-### test image:
+### detected image:
 ![image](https://github.com/user-attachments/assets/1458de5d-242e-44a0-9805-abc9a176970a)
 
-### test video
+### output video
 https://github.com/user-attachments/assets/3e578780-6b00-4f8c-8153-2e08f503a43d
 
