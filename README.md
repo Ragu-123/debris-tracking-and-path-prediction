@@ -18,11 +18,16 @@ PyTorch
 
 ## output
 
+![confusion_matrix](https://github.com/user-attachments/assets/2c8f8ea3-2b2e-4530-98d4-6e6feb93a85f)
+
+
 ### detected image:
 ![image](https://github.com/user-attachments/assets/1458de5d-242e-44a0-9805-abc9a176970a)
 ![path tracked image](https://github.com/user-attachments/assets/94eb5547-ef0d-4439-90c9-e8c8ff075ee5)
 
 
 ### output video
-https://github.com/user-attachments/assets/3e578780-6b00-4f8c-8153-2e08f503a43d
+https://github.com/user-attachments/assets/e1a1c3eb-fc12-4af9-bb72-9d2697f58d7e
+
+
 
