@@ -1,6 +1,6 @@
 # Space-debris-tracking-using-yolov5-and-path-prediction
 
-This project demonstrates a space debris tracking system using YOLOv5 for object detection and a Kalman Filter to predict and track the debris's trajectory in video footage.
+This project demonstrates a space debris tracking system using YOLOv5 for object detection and a Kalman Filter to predict and track the debris's trajectory in real time.
 
 ## Overview
 The goal of this project is to detect debris in video frames using a YOLOv5 model, and then continuously track and predict the future positions of the detected debris using a Kalman Filter. The output video shows both the detected debris and the predicted path.
