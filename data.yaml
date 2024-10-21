@@ -1,0 +1,10 @@
+# YOLOv5 data file
+
+train: C:/Users/SEC/Downloads/ibm/preprocessed/train/images  # Path to the training images
+val: C:/Users/SEC/Downloads/ibm/preprocessed/val/images      # Path to the validation images
+
+# Number of classes
+nc: 1  # Number of object classes (in your case, debris is the only class)
+
+# Class names
+names: ['debris']  # List of class names
